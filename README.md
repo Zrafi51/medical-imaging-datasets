@@ -25,8 +25,11 @@ user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset, https://bupt-ai-cz.github.io/BCNB/, https://github.com/bupt-ai-cz/BALNMP#bcnb-dataset
 * National Cancer Institute Imaging Data Commons (IDC) https://portal.imaging.datacommons.cancer.gov/explore/
 
-### Histology and Histopathology (H&E, IHQ, ...)
+### Histology, Histopathology (H&E, IHQ) & Microscopy (Cell, Cytology, Biology, Protein, Molecular, Fluorescence)
 
+* Pap Smear image database #1 ("SIPAKMed") https://www.cse.uoi.gr/~marina/sipakmed.html
+* Pap Smear image database #2 https://www.cs.uoi.gr/~marina/data_set_TITB.zip
+* Pap Smear image database #3 http://mde-lab.aegean.gr/index.php/downloads
 * The Cancer Genome Atlas (TCGA) http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/
 * International Cancer Genome Consortium http://icgc.org, (Data portal) http://dcc.icgc.org/
 * Stanford Tissue Microarray Database (TMA) http://tma.im
@@ -35,10 +38,8 @@ user guide: http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf
 * ITK Analysis of Large Histology Datasets http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets
 * Histology Photo Album http://www.histology-world.com/photoalbum/thumbnails.php?album=52
 * Slide Library of Virtual pathology, University of Leeds http://www.virtualpathology.leeds.ac.uk/
-* Microscopy (Cell, Cytology, Biology, Protein, Molecular, Fluorescence, etc.)
 * BDGP images from the FlyExpress database www.flyexpress.net
 * The UCSB Bio-Segmentation Benchmark dataset http://www.bioimage.ucsb.edu/research/biosegmentation
-* Pap Smear database http://mde-lab.aegean.gr/index.php/downloads
 * Histology (CIMA) dataset http://cmp.felk.cvut.cz/~borovji3/?page=dataset
 * ANHIR dataset https://anhir.grand-challenge.org/
 * Genome RNAi dataset http://www.genomernai.org/
